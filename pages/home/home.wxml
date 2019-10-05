@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello world!</text>
+<button size="mini">ann</button>
+<image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570292769103&di=a6193b27d56e968bd879940973a5a7c2&imgtype=0&src=http%3A%2F%2Fdingyue.ws.126.net%2F2019%2F03%2F18%2Fbb71f6084d1b47c989e346c0e26cd705.jpeg"></image>
